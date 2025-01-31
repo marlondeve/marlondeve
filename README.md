@@ -1,9 +1,9 @@
 
 <div style="display: flex; gap: 10px;">
   <a href="#" onclick="return false;">
-    <img src="assets/12.png" width="37%" height="auto">
+    <img src="assets/12.png" width="300" height="300">
   </a>
   <a href="#" onclick="return false;">
-    <img src="assets/22.png" width="62.5%" height="auto">
+    <img src="assets/22.png" width="500" height="300">
   </a>
 </div>
