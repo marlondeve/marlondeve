@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 ![Descripción de la imagen](assets/img.png)
-<img src=assets/img.png" width="300">
+<img src="assets/img.png" width="300">
 
 ![GIF Animado](https://miespecialistaencasa.com/recursos/gif1.gif)
 <!--
