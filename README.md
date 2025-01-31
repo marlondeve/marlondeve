@@ -1,5 +1,5 @@
 # ¡Hola! 👋
-
+![Descripción de la imagen](assets/img.png)
 ![GIF Animado](https://miespecialistaencasa.com/recursos/gif1.gif)
 <!--
 **marlondeve/marlondeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
