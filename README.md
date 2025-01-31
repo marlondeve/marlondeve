@@ -1,7 +1,7 @@
 
 <div>
   <a href="#" onclick="return false;">
-    <img src="assets/55.gif" width="100%" >
+    <img src="assets/66.gif" width="100%" >
   </a>
 
 </div>
