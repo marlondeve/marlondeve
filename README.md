@@ -1,7 +1,9 @@
 # ¡Hola! 👋
 
 <img src="assets/img.png" width="300">
-<img src="assets/gif.gif" width="300">
+<a href="#" onclick="return false;">
+  <img src="assets/gif.gif" width="300">
+</a>
 
 <!--
 **marlondeve/marlondeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
