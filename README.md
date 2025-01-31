@@ -1,4 +1,10 @@
 
+<div>
+  <a href="#" onclick="return false;">
+    <img src="assets/33.gif" width="100%" >
+  </a>
+
+</div>
 <div style="display: flex; gap: 10px;">
   <a href="#" onclick="return false;">
     <img src="assets/12.png" width="300" height="300">
