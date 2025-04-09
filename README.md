@@ -1,13 +1,13 @@
 
 <div>
   <a href="#" onclick="return false;">
-    <img src="assets/66.gif" width="100%" >
+    <img src="assets/18.gif" width="100%" >
   </a>
 
 </div>
 <div>
   <a href="#" onclick="return false;">
-    <img src="assets/77.gif" width="100%" >
+    <img src="assets/16.gif" width="100%" >
   </a>
 
 </div> 
