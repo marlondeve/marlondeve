@@ -60,7 +60,7 @@
 <h2 align="center">🧩 Tᴇᴄʜ Sᴛᴀᴄᴋ & Pʀᴏʏᴇᴄᴛᴏs Rᴇᴄɪᴇɴᴛᴇs</h2> 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="(https://github.com/user-attachments/assets/a4c4410c-d3c5-4548-958f-9ef8a3c7f22d)">
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="Animación de habilidades" src="./Skills_Animation_White.gif">
 </picture>
