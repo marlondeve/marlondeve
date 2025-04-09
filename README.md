@@ -51,18 +51,34 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     </a>
 </div>
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=marlondeve&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="marlondeve" style="padding-right:20px;" />
+</p>
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">🧩 Tᴇᴄʜ Sᴛᴀᴄᴋ & Pʀᴏʏᴇᴄᴛᴏs Rᴇᴄɪᴇɴᴛᴇs</h2> 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="(https://github.com/user-attachments/assets/a4c4410c-d3c5-4548-958f-9ef8a3c7f22d)">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <img align="left" alt="Animación de habilidades" src="./Skills_Animation_White.gif">
 </picture>
 <br />
 
-<h3 align="left">Current Learning</h3> <ul align="left"> <li>Expanding my expertise in Next.js for full-stack development.</li> <li>Deepening my understanding of Python OOP concepts.</li> <li>Enhancing my backend skills with Express and API development.</li> </ul>
-  
-<br />
-<br />
-<br />
+<h3 align="left">🚀 Stack actual: Full Stack Developer</h3>
+<ul align="left">
+  <li><strong>Frontend:</strong> Angular + TailwindCSS</li>
+  <li><strong>Backend:</strong> Spring Boot + REST APIs</li>
+  <li><strong>Base de datos:</strong> MySQL / PostgreSQL</li>
+  <li><strong>Otros:</strong> Docker, Git, Postman, Swagger</li>
+</ul>
+
+<h3 align="left">📚 Aprendiendo actualmente</h3>
+<ul align="left">
+  <li>Profundizando en arquitectura hexagonal con Spring Boot.</li>
+  <li>Mejorando la escalabilidad en proyectos Angular empresariales.</li>
+  <li>Automatización de pruebas con Postman y JUnit.</li>
+  <li>Refinando patrones de diseño para aplicaciones mantenibles.</li>
+</ul>
+
