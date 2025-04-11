@@ -72,6 +72,7 @@
   <li><strong>Backend:</strong> Spring Boot + REST APIs</li>
   <li><strong>Base de datos:</strong> MySQL / PostgreSQL</li>
   <li><strong>Otros:</strong> Docker, Git, Postman, Swagger</li>
+  
 </ul>
 
 <h3 align="left">📚 Aprendiendo actualmente</h3>
