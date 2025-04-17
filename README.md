@@ -1,5 +1,4 @@
 
-
 <div>
   <a href="#" onclick="return false;">
     <img src="assets/22.gif" width="100%" >
